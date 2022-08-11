@@ -90,9 +90,9 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Manila, Philippines
+          Manila, Philippinesjsdflkgjsdflkgj
           <br />
-          <span>brysontonel@gmail.comhajsdasdasdasd</span>
+          <span>brysontonel@gmail.comhajsdasdasdsdfgsdfgsasd</span>
         </div>
         <div className="map-wrap">
           <MapContainer center={[14.599512, 120.984222]} zoom={9}>
